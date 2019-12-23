@@ -3,148 +3,100 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.example.com/pt-br/categories/blog/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/pt-br/categories/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+    <loc>https://manasranjanpati.github.io/manaspi/pt-br/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/categories/"
+                href="https://manasranjanpati.github.io/manaspi/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/categories/"
+                href="https://manasranjanpati.github.io/manaspi/pt-br/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/posts/dummy/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/pt-br/tags/hugo/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+    <loc>https://manasranjanpati.github.io/manaspi/pt-br/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/hugo/"
+                href="https://manasranjanpati.github.io/manaspi/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/hugo/"
+                href="https://manasranjanpati.github.io/manaspi/pt-br/contact/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/tags/i18n/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/pt-br/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+    <loc>https://manasranjanpati.github.io/manaspi/pt-br/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/"
+                href="https://manasranjanpati.github.io/manaspi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/"
+                href="https://manasranjanpati.github.io/manaspi/pt-br/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/posts/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+    <loc>https://manasranjanpati.github.io/manaspi/pt-br/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/posts/"
+                href="https://manasranjanpati.github.io/manaspi/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/posts/"
+                href="https://manasranjanpati.github.io/manaspi/pt-br/projects/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/tags/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+    <loc>https://manasranjanpati.github.io/manaspi/pt-br/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/"
+                href="https://manasranjanpati.github.io/manaspi/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/"
+                href="https://manasranjanpati.github.io/manaspi/pt-br/series/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/contact/</loc>
+    <loc>https://manasranjanpati.github.io/manaspi/pt-br/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/contact/"
+                href="https://manasranjanpati.github.io/manaspi/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/contact/"
+                href="https://manasranjanpati.github.io/manaspi/pt-br/about/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/pt-br/projects/</loc>
+    <loc>https://manasranjanpati.github.io/manaspi/pt-br/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/projects/"
+                href="https://manasranjanpati.github.io/manaspi/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/projects/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/pt-br/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/series/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/pt-br/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.example.com/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://www.example.com/pt-br/about/"
+                href="https://manasranjanpati.github.io/manaspi/pt-br/tags/"
                 />
   </url>
   

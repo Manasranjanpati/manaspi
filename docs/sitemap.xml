@@ -2,16 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>http://www.example.com/en/sitemap.xml</loc>
+	   	<loc>https://manasranjanpati.github.io/manaspi/en/sitemap.xml</loc>
 		
-	   	<lastmod>2019-03-20T00:00:00+00:00</lastmod>
+	   	<lastmod>2019-12-23T06:37:07+05:30</lastmod>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>http://www.example.com/pt-br/sitemap.xml</loc>
-		
-	   	<lastmod>2018-12-31T00:00:00+00:00</lastmod>
+	   	<loc>https://manasranjanpati.github.io/manaspi/pt-br/sitemap.xml</loc>
 		
 	</sitemap>
 	

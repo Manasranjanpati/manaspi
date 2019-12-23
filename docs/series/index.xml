@@ -2,41 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Manaspi Blog</title>
-    <link>http://www.example.com/series/</link>
+    <link>https://manasranjanpati.github.io/manaspi/series/</link>
     <description>Recent content in Series on Manaspi Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.example.com/series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://manasranjanpati.github.io/manaspi/series/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Hugo</title>
-      <link>http://www.example.com/series/hugo/</link>
-      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/series/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Theme</title>
-      <link>http://www.example.com/series/theme/</link>
-      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/series/theme/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Getting Started</title>
-      <link>http://www.example.com/series/getting-started/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.example.com/series/getting-started/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
