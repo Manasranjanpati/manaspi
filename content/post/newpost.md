@@ -1,7 +1,7 @@
 ---
 title: "Newpost"
 date: 2019-12-23T06:37:07+05:30
-draft: true
+draft: false
 ---
 
 
