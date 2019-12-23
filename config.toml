@@ -3,6 +3,8 @@ title = "Manaspi Blog"
 
 theme = "coder"
 
+publishDir = "docs"
+
 languagecode = "en"
 defaultcontentlanguage = "en"
 
