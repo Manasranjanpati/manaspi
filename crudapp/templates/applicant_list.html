@@ -26,10 +26,10 @@
                 <td>{{applicant.mobile}}</td>
                 <td>{{applicant.designation}}</td>
                 <td>
-                    <a href="{% url 'employee_update' employee.id %}" class="btn text-secondary px-0">
+                    <a href="{% url 'applicant_form_view' applicant.id %}" class="btn text-secondary px-0">
                         <i class="far fa-edit fa-lg"></i>
                     </a>
-                    <form action="{% url 'employee_delete' employee.id %}" method="post" class="d-inline">
+                    <form action="{% url 'applicant_delete_view' applicant.id %}" method="post" class="d-inline">
                         {% csrf_token %}
                         <button type="submit" class="btn">
                             <i class="far fa-trash-alt fa-lg text-danger float-right"></i>
